@@ -1,0 +1,15 @@
+[localtime] 2021-11-23 09:42:05
+vgg19
+{'data': [1, 3, 224, 224]}
+-- 5, iteration time(s) is 1.947711
+-- 6, iteration time(s) is 1.919873
+-- 7, iteration time(s) is 1.923485
+-- 8, iteration time(s) is 1.913291
+-- 9, iteration time(s) is 1.912668
+-- 10, iteration time(s) is 1.910014
+-- 11, iteration time(s) is 1.913966
+-- 12, iteration time(s) is 1.913540
+-- 13, iteration time(s) is 1.910265
+-- 14, iteration time(s) is 1.951409
+@@ vgg19, average time(s) is 1.921622
+FINISH

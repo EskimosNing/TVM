@@ -1,0 +1,15 @@
+[localtime] 2021-11-23 09:27:53
+resnet101
+{'data': [1, 3, 224, 224]}
+-- 5, iteration time(s) is 0.687622
+-- 6, iteration time(s) is 0.688771
+-- 7, iteration time(s) is 0.687923
+-- 8, iteration time(s) is 0.688670
+-- 9, iteration time(s) is 0.688107
+-- 10, iteration time(s) is 0.688411
+-- 11, iteration time(s) is 0.688189
+-- 12, iteration time(s) is 0.688616
+-- 13, iteration time(s) is 0.688379
+-- 14, iteration time(s) is 0.688551
+@@ resnet101, average time(s) is 0.688324
+FINISH
